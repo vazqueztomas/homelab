@@ -1,0 +1,4 @@
+backup-roms/
+backup-configs/
+backup-bios/
+*.img.gz
